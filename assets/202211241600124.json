@@ -1,0 +1,232 @@
+[
+  {
+    "startDate": "11-21",
+    "startTime": "00:00",
+    "rightTeam": {
+      "name": "厄瓜多尔",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/f7fbe426deae24a394e516e5991c63af.png",
+      "score": "2",
+      "isWinner": "1"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjIj5Y2h5aGU5bCUdnPljoTnk5zlpJrlsJQ%3D",
+    "startTimestamp": "1668960000",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjIj5Y2h5aGU5bCUdnPljoTnk5zlpJrlsJQ%3D/tab/数据",
+    "leftTeam": {
+      "name": "卡塔尔",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/dcd44740b8c6937d005b270be0714b1d.png",
+      "score": "0",
+      "isWinner": "0"
+    },
+    "matchStage": "A组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯A组第1轮",
+    "liveStageText": "",
+    "winner": "厄瓜多尔"
+  },
+  {
+    "startDate": "11-21",
+    "startTime": "21:00",
+    "rightTeam": {
+      "name": "伊朗",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/79bc4fe4b02ad0544af9f2a8fbbe02e1.png",
+      "score": "2",
+      "isWinner": "0"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjEj6Iux5qC85YWwdnPkvIrmnJc%3D",
+    "startTimestamp": "1669035600",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjEj6Iux5qC85YWwdnPkvIrmnJc%3D/tab/数据",
+    "leftTeam": {
+      "name": "英格兰",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/40332026b8f611468dc2959c3a32f399.png",
+      "score": "6",
+      "isWinner": "1"
+    },
+    "matchStage": "B组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯B组第1轮",
+    "liveStageText": "",
+    "winner": "英格兰"
+  },
+  {
+    "startDate": "11-22",
+    "startTime": "00:00",
+    "rightTeam": {
+      "name": "荷兰",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/e449bde913469bca9c7478ec17d2fe6c.png",
+      "score": "2",
+      "isWinner": "1"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjEj5aGe5YaF5Yqg5bCUdnPojbflhbA%3D",
+    "startTimestamp": "1669046400",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjEj5aGe5YaF5Yqg5bCUdnPojbflhbA%3D/tab/数据",
+    "leftTeam": {
+      "name": "塞内加尔",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/5409f8cd1d7c3d4fc52c3c73d8f4d748.png",
+      "score": "0",
+      "isWinner": "0"
+    },
+    "matchStage": "A组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯A组第1轮",
+    "liveStageText": "",
+    "winner": "荷兰"
+  },
+  {
+    "startDate": "11-22",
+    "startTime": "03:00",
+    "rightTeam": {
+      "name": "威尔士",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/b105c963d3ed3810c33a4198c2f4774e.png",
+      "score": "1"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjIj576O5Zu9dnPmrKfmtLLljLrpmYTliqDotZtB57uE6IOc6ICF",
+    "startTimestamp": "1669057200",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjIj576O5Zu9dnPmrKfmtLLljLrpmYTliqDotZtB57uE6IOc6ICF/tab/数据",
+    "leftTeam": {
+      "name": "美国",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/19f0d6e267727f9846559d420a2068a6.png",
+      "score": "1"
+    },
+    "matchStage": "B组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯B组第1轮",
+    "liveStageText": "",
+    "winner": ""
+  },
+  {
+    "startDate": "11-22",
+    "startTime": "18:00",
+    "rightTeam": {
+      "name": "沙特阿拉伯",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/b3b1f269a39ef3b5b1700a854902eb8b.png",
+      "score": "2",
+      "isWinner": "1"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjIj6Zisprit5qC55bu3dnPmspnnibnpmLspritmi4nkvK8%3D",
+    "startTimestamp": "1669111200",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjIj6Zisprit5qC55bu3dnPmspnnibnpmLspritmi4nkvK8%3D/tab/数据",
+    "leftTeam": {
+      "name": "阿根廷",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/ca4718053280290ad49d44d67ca97743.png",
+      "score": "1",
+      "isWinner": "0"
+    },
+    "matchStage": "C组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯C组第1轮",
+    "liveStageText": "",
+    "winner": "沙特阿拉伯"
+  },
+  {
+    "startDate": "11-22",
+    "startTime": "21:00",
+    "rightTeam": {
+      "name": "突尼斯",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/5f801ce25d4e64977ff65e297e82c81a.png",
+      "score": "0"
+    },
+    "matchType": "football",
+    "matchId": "5LiW55WM5p2vIzIwMjItMTEtMjIj5Li56bqmdnPnqoHlsLzmlq8%3D",
+    "startTimestamp": "1669122000",
+    "matchStatusText": "已结束",
+    "url": "https://tiyu.baidu.com/live/detail/5LiW55WM5p2vIzIwMjItMTEtMjIj5Li56bqmdnPnqoHlsLzmlq8%3D/tab/数据",
+    "leftTeam": {
+      "name": "丹麦",
+      "BigScore": "",
+      "penaltyScore": "",
+      "logo": "https://search-operate.cdn.bcebos.com/e3c72eaf6d6ec0e992035072e762d519.png",
+      "score": "0"
+    },
+    "matchStage": "D组第1轮",
+    "match": "世界杯",
+    "wiseLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchStatus": "2",
+    "pcLiveList": {
+      "name": "",
+      "link": ""
+    },
+    "matchDesc": "世界杯D组第1轮",
+    "liveStageText": "",
+    "winner": ""
+  }
+]
